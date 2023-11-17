@@ -1,6 +1,7 @@
 # Tic Tac Toe App with Serverless Architecture
 
 Welcome to the Tic Tac Toe App repository! This project showcases a fully serverless architecture implemented with AWS services and developed using the Flutter framework.
+
 Below, you'll find a comprehensive guide on the project structure, backend logic, and key components.
 
 ![Screenshot](print_screens/app_demo.png)
