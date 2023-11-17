@@ -114,6 +114,6 @@ To run the Tic Tac Toe App locally, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is free for evrybody to use
 
 Feel free to explore, contribute, and enjoy playing Tic Tac Toe! If you have any questions or suggestions, please open an issue or reach out to the project maintainers. Happy coding!
