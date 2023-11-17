@@ -1,13 +1,15 @@
 # Tic Tac Toe App with Serverless Architecture
 
-Welcome to the Tic Tac Toe App repository! This project showcases a fully serverless architecture implemented with AWS services and developed using the Flutter framework. Below, you'll find a comprehensive guide on the project structure, backend logic, and key components.
+Welcome to the Tic Tac Toe App repository! This project showcases a fully serverless architecture implemented with AWS services and developed using the Flutter framework.
+Below, you'll find a comprehensive guide on the project structure, backend logic, and key components.
 
 ![Screenshot](print_screens/app_demo.png)
 ![Screenshot](print_screens/app_demo_2.png)
 
 ## Overview
 
-This Tic Tac Toe App allows users to register and log in, create online game rooms, and engage in Tic Tac Toe matches with other registered users. The serverless architecture leverages AWS services, including Cognito for user authentication, DynamoDB for game data storage, Lambda functions for backend logic, and API Gateway for WebSocket communication.
+This Tic Tac Toe App allows users to register and log in, create online game rooms, and engage in Tic Tac Toe matches with other registered users. 
+The serverless architecture leverages AWS services, including Cognito for user authentication, DynamoDB for game data storage, Lambda functions for backend logic, and API Gateway for WebSocket communication.
 
 ## Key Components
 
