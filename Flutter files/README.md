@@ -1,4 +1,4 @@
-# newttt
+# Tic Tac Toe App
 
 A new Flutter project.
 
