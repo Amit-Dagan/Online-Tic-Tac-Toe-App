@@ -4,8 +4,9 @@ Welcome to the Tic Tac Toe App repository! This project showcases a fully server
 
 Below, you'll find a comprehensive guide on the project structure, backend logic, and key components.
 
-![Screenshot](print_screens/app_demo.png)
-![Screenshot](print_screens/app_demo_2.png)
+## gif showcasing the app 
+
+![Screenshot](print_screens/demo_tic_tac_toe.gif)
 
 ## Overview
 
